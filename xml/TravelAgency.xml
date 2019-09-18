@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agent>
+   <domestic-flight>
+		<flight-id>12321</flight-id>
+		<flight-name>FAST</flight-name>
+		<from>PUNE</from>
+		<to>MUMBAI</to>
+    </domestic-flight>
+    </agent>
