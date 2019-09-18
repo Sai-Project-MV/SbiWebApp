@@ -12,6 +12,10 @@ import javax.xml.validation.Validator;
 
 public class MyTravelAgency {
 
+public MyTravelAgency(){
+
+}
+
 	boolean isValid=false;
 	public static void main(String[] args) throws Exception{
 		MyTravelAgency agency=
